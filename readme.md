@@ -6,19 +6,19 @@ test目录下是从openGauss中拿到的使用了dbe包的测试sql及输出结�
 比如运行pljson.sql，能得到相同的out结果
 
 目前已支持的
-dbe_application_info
-dbe_lob
-dbe_output
-dbe_random
-dbe_raw
-dbe_utility
-dbe_task
+dbe_application_info  
+dbe_lob  
+dbe_output  
+dbe_random  
+dbe_raw  
+dbe_utility  
+dbe_task  
 
 目前未改完的还有
-dbe_file (orafce > utl_file)
-dbe_schedule
-dbe_match (compat-tools >utl_match)
-dbe_session
-dbe_sql
-dbe_lob(与文件相关的部分)
-dbe_utility(与堆栈相关的部分)
+dbe_file (orafce > utl_file)  
+dbe_schedule  
+dbe_match (compat-tools >utl_match)  
+dbe_session  
+dbe_sql  
+dbe_lob(与文件相关的部分)  
+dbe_utility(与堆栈相关的部分)  
